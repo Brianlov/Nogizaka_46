@@ -17,6 +17,28 @@ body{
     
 }
 
+.border_text
+{
+    border-bottom:6px solid blueviolet;
+    border-top:6px solid blueviolet;
+    border-left:6px solid blueviolet;
+    border-right:6px solid blueviolet;
+    border-radius: 60px;
+
+}
+#text1
+{
+    font-size:14px;
+    color:#ddd;
+    background-color:violet;
+
+}
+#text2
+{
+    font-size:14px;
+    color:#ddd;
+    background-color:blueviolet;
+}
 .text_center
 {
     
